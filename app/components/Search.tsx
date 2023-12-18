@@ -21,10 +21,10 @@ return (
             type="text"
             value={search}
             onChange = {(e) => setSearch(e.target.value)}
-            className="bg-yellow-50 p-2 w-80 text-xl rounded-xl"
+            className="bg-green-50 p-2 w-80 text-xl rounded-xl"
             placeholder="Search"
         />
-        <button className="p-2 text-lg rounded-xl bg-yellow-100 ml-2 font-bold">
+        <button className="p-2 text-lg rounded-xl bg-green-50 ml-2 font-bold">
             🍃
         </button>
     </form>
