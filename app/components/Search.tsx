@@ -25,7 +25,7 @@ return (
             placeholder="Search"
         />
         <button className="p-2 text-lg rounded-xl bg-green-50 ml-2 font-bold">
-            🍃
+            🚀
         </button>
     </form>
   )

@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="bg-green-800 p-4 flex justify-between flex-col md:flex-row sticky top-0 drop-shadow-xl">
         <h1 className='text-3xl font-bold text-yellow-50 grid
         place-content-center mb-2 md:mb-0'>
-            <Link href="/"> PlantPicker</Link>
+            <Link href="/"> WikiRocket</Link>
         </h1> 
         <Search/>
        {/*  <div className='flex justify-around'>
